@@ -1,13 +1,7 @@
-# Causal DT — MICCAI 2026
+# Causal DT - MICCAI 2026
 
-Landing page for the poster QR code accompanying:
+Project page for **Beyond Predictive Modeling: Toward Causal Digital Twins for Personalized Healthcare**.
 
-**Beyond Predictive Modeling: Toward Causal Digital Twins for Personalized Healthcare**
+MICCAI 2026 · Digital Twin for Healthcare (DT4H)
 
-The page intentionally does not host the camera-ready PDF before official publication. Update the Full Paper card in `index.html` when the official MICCAI/Springer/DOI URL becomes available.
-
-## GitHub Pages
-
-Publish this folder from the repository's default branch root. The intended repository name is `causal-dt-miccai-2026`, giving the stable page URL:
-
-`https://avery0204.github.io/causal-dt-miccai-2026/`
+[View the project page](https://avery0204.github.io/causal-dt-miccai-2026/)
