@@ -146,8 +146,7 @@ sup {
   font-size: 0.91rem;
 }
 
-.status,
-.contact-card a {
+.status {
   display: inline-block;
   margin: 28px 0 0;
   font-size: 0.76rem;
@@ -163,12 +162,22 @@ sup {
   text-transform: uppercase;
 }
 
-.contact-card a {
+.contact-links {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.contact-links a {
   color: var(--navy);
+  font-size: 0.78rem;
+  font-weight: 750;
   text-decoration: none;
 }
 
-.contact-card a:hover {
+.contact-links a:hover {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
